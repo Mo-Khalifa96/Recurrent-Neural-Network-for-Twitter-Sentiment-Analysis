@@ -39,7 +39,7 @@
 <br>
 
 ***To view the project only, click on the following link:*** <br>
-https://nbviewer.org/github/Mo-Khalifa96/Recurrent-Neural-Network-for-Twitter-Sentiment-Analysis/blob/main/Twitter%20Sentiment%20Analysis.ipynb#reading-and-inspecting-the-data
+https://nbviewer.org/github/Mo-Khalifa96/Recurrent-Neural-Network-for-Twitter-Sentiment-Analysis/blob/main/Twitter%20Sentiment%20Analysis.ipynb
 <br>
 <br>
 ***Alternatively, to view the project and interact with its code, click on the following link:*** <br>
